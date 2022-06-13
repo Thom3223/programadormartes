@@ -1,4 +1,6 @@
 chocolate
 helado
 cocacola
-
+cama
+tele
+vaso
